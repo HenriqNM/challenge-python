@@ -3,6 +3,10 @@
 ## Integrantes
 * **Henrique Nunes Mororó** — RM 574073
 * **Bernardo de Paula Rodrigues** — RM 572376
+* ** Heitor Anacleto Araújo** — RM: 573599
+* **Matheus Henrique Pedersen Guerra** — RM: 571197
+* **Isaac Israel Rosa Coimbra** — RM 570072
+  
   
 
 ## Descrição do Projeto
